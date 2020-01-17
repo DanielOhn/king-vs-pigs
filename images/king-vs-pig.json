@@ -1,0 +1,48 @@
+{"frames": {
+
+"door_idle.png":
+{
+	"frame": {"x":0,"y":0,"w":46,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":56},
+	"sourceSize": {"w":46,"h":56},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"king_ground.png":
+{
+	"frame": {"x":46,"y":0,"w":39,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":19,"w":39,"h":27},
+	"sourceSize": {"w":78,"h":58},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"life_bar.png":
+{
+	"frame": {"x":0,"y":56,"w":66,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":34},
+	"sourceSize": {"w":66,"h":34},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"pig_ground.png":
+{
+	"frame": {"x":66,"y":56,"w":22,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":12,"w":22,"h":16},
+	"sourceSize": {"w":34,"h":28},
+	"anchor": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "king-vs-pig.png",
+	"format": "RGBA8888",
+	"size": {"w":88,"h":90},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4bb9b8fc3193038adac2b3daf8e51276:60b12a440669b955d01ebce83f9b5ef2:08ac8cd5ac8afc8ffad08bb2ca76a1b6$"
+}
+}
